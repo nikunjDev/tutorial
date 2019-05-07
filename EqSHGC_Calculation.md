@@ -51,5 +51,6 @@ Store SHGC Value from table {assume this value as 'X'}
 * Eq.SHGC (Z) = A * X
 
 **Compliance Check**
+
 if Y<Z , Display ""<Compliance level> compliance met.", else "<Compliance level> compliance not met."
 		
